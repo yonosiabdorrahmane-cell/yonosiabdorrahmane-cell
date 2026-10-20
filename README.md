@@ -12,6 +12,11 @@
 - 🇬🇧 **English:** Passionate computer science student specializing in C#, Java, modern JavaScript (PWAs), and Python/Flask backends. Linux enthusiast (Arch Linux w/ KDE Plasma).
 
 ---
+## 💼 Experience / Expériences Professionnelles
+
+- 🏢 **Développeur Stagiaire (Intern)** — *Suprajit* | *(Date : 22 Juin 2026 – 22 Juillet 2026)*
+  - Développement et conception de SuprajitVoice.
+  - Rédaction de la documentation technique et travail en équipe.
 
 ## 🛠️ Tech Stack & Tools
 
